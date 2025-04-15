@@ -1,6 +1,6 @@
 <h1>Clone BuzzFeed com Angular</h1>
 
-Projeto prático de um clone do site BuzzFeed para o Bootcamp DIO Avanade 2025 utilizando Angular,HTML e CSS.
+Projeto prático de um clone do site BuzzFeed utilizando Angular,HTML e CSS.
 
 ![WhatsApp Image 2025-04-06 at 20 59 20](https://github.com/user-attachments/assets/03970921-593e-45ef-a068-45749ec03b2e)
 
